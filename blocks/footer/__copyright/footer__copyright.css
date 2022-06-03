@@ -1,0 +1,15 @@
+.footer__copyright {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.14;
+    text-align: end;
+  }
+  @media all and (max-width: 425px) {
+    .intro{
+        padding-top: 48px;
+        line-height: 1;
+    }
+}
