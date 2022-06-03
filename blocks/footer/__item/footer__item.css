@@ -13,7 +13,7 @@
     opacity: 0.6;
   }
   @media all and (max-width: 425px) {
-    .intro{
+    .footer__item{
         font-size: 24px;
         line-height: 1
     }

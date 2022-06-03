@@ -7,7 +7,7 @@
     align-items: center;
 }
 @media all and (max-width: 425px) {
-    .intro{
+    .footer{
         align-items: flex-start;
         margin-left: 16px;
         margin-top: 64px;
@@ -15,7 +15,7 @@
     }
 }
 @media screen and (min-width: 425px) and (max-width: 768px){
-    .intro{
+    .footer{
         margin-top: 88px;
         margin-left: 24px;
         margin-right: 24px;
@@ -23,7 +23,7 @@
     }
 }
 @media screen and (max-width: 1024px){
-    .intro{
+    .footer{
         margin-top: 92px;
         margin-left: 48px;
         margin-right: 48px;
@@ -31,7 +31,7 @@
     }
 }
 @media screen and (min-width: 1280px){
-    .intro{
+    .footer{
         margin-top: 92px;
         margin-left: 48px;
         margin-right: 48px;
