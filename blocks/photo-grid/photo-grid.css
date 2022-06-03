@@ -79,6 +79,6 @@
         max-width: calc(100% - 2 * 48px);
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: repeat(3, 1fr);
-        gap: 16px;s
+        gap: 16px;
     }
 }
