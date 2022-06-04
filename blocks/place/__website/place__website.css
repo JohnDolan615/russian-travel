@@ -5,7 +5,7 @@
     align-self: end;
     grid-area: website;
 }
-@media all and (max-width: 425px) {
+@media all and (max-width: 767px) {
     .place__website{
         margin-left: 16px;
     }
