@@ -1,0 +1,35 @@
+.place__paragraphs{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    grid-area: paragraph;
+}
+@media all and (max-width: 425px) {
+    .place{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+        max-width: calc(100% - 2 * 16px);
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+    .place{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+    }
+}
+@media screen and (max-width: 1024px){
+    .place{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 163%;
+    }
+}
+@media screen and (min-width: 1280px){
+    .place{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 163%;
+    }
+}
