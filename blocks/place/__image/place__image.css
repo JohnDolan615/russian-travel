@@ -1,8 +1,5 @@
-.place__image{
-    margin: 0;
-    padding: 0;
-    color: #fff;
+.place__image {
+    grid-area: image;
     max-width: 100%;
     object-fit: cover;
-    grid-area: image;
 }
