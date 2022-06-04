@@ -5,7 +5,7 @@
     grid-area: paragraph;
 }
 @media all and (max-width: 425px) {
-    .place{
+    .place__paragraphs{
         font-weight: 400;
         font-size: 16px;
         line-height: 163%;
@@ -13,21 +13,21 @@
     }
 }
 @media screen and (min-width: 425px) and (max-width: 768px){
-    .place{
+    .place__paragraphs{
         font-weight: 400;
         font-size: 16px;
         line-height: 163%;
     }
 }
 @media screen and (max-width: 1024px){
-    .place{
+    .place__paragraphs{
         font-weight: 400;
         font-size: 18px;
         line-height: 163%;
     }
 }
 @media screen and (min-width: 1280px){
-    .place{
+    .place__paragraphs{
         font-weight: 400;
         font-size: 18px;
         line-height: 163%;

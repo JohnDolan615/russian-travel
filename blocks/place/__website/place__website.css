@@ -6,7 +6,7 @@
     grid-area: website;
 }
 @media all and (max-width: 425px) {
-    .place{
+    .place__website{
         margin-left: 16px;
     }
 }
