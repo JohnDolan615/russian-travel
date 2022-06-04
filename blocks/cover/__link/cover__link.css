@@ -30,7 +30,7 @@
   @media all and (max-width: 425px) {
     .сover__link{
         width: 100%;
-        min-height: 200px
+        min-height: 200px;
     }
 }
 @media screen and (min-width: 425px) and (max-width: 768px){
