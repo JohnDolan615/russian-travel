@@ -9,8 +9,8 @@
     line-height: 18px;
     list-style-type: none;
 }
-@media all and (max-width: 425px) {
-    .intro__title{
+@media all and (max-width: 767px) {
+    .intro__list{
         margin-top: 34px;
     }
 }

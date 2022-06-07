@@ -18,11 +18,6 @@
       margin-left: 152px;
       margin-right: 152px;
       max-width: 720px;
-      font-style: normal;
-      font-weight: bold;
-      font-size: 96px;
-      line-height: 100px;
-      text-align: center;
   }
 }
 @media screen and (max-width: 1023px){
@@ -30,11 +25,6 @@
       margin-left: 24px;
       margin-right: 24px;
       max-width: 720px;
-      font-style: normal;
-      font-weight: 900;
-      font-size: 96px;
-      line-height: 100px;
-      text-align: center;
   }
 }
 @media screen and (max-width: 767px) {
@@ -42,10 +32,7 @@
       margin-left: 16px;
       margin-right: 16px;
       max-width: 288px;
-      font-style: normal;
-      font-weight: 900;
       font-size: 40px;
       line-height: 44px;
-      text-align: center;
   }
 }
